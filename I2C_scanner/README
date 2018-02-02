@@ -1,0 +1,3 @@
+#I2C_Scanner
+
+Really useful code to have around, it scans all I2C connected to Arduino and return their hex addresses.
